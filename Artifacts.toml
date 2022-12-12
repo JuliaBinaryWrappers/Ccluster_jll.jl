@@ -1,115 +1,143 @@
 [[Ccluster]]
 arch = "aarch64"
-git-tree-sha1 = "725a8d187e0cf80c61c65483af82d9998bfff5b8"
-libc = "glibc"
-os = "linux"
-
-    [[Ccluster.download]]
-    sha256 = "f79e1a2b3f02050a0233db83b8ace91f042878b7320b7b157c1b7f2e7a1f5863"
-    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.7+0/Ccluster.v1.1.7.aarch64-linux-gnu.tar.gz"
-[[Ccluster]]
-arch = "aarch64"
-git-tree-sha1 = "1efe838ff4d2047f2af8b0f6918a5c5ca7fec5f1"
-libc = "musl"
-os = "linux"
-
-    [[Ccluster.download]]
-    sha256 = "c1124fcf497d6a70cf2df1f1fdbcca3c3c5f69734af67e2213184a996c6f23b5"
-    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.7+0/Ccluster.v1.1.7.aarch64-linux-musl.tar.gz"
-[[Ccluster]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "b0f7d61a0708600e998badd34571ef33829b1806"
-libc = "glibc"
-os = "linux"
-
-    [[Ccluster.download]]
-    sha256 = "43ddd908aaadfd92643d30418b2c167c6b204ee72a9fb92f7d68f160a57dd73d"
-    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.7+0/Ccluster.v1.1.7.armv7l-linux-gnueabihf.tar.gz"
-[[Ccluster]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "f3602ae0ad25f6dcef475298b7ad383b9c0b5bf2"
-libc = "musl"
-os = "linux"
-
-    [[Ccluster.download]]
-    sha256 = "8aa52f8fe7afac4a0a885f8850d8806b584db6f94904387435f62c6d33df1172"
-    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.7+0/Ccluster.v1.1.7.armv7l-linux-musleabihf.tar.gz"
-[[Ccluster]]
-arch = "i686"
-git-tree-sha1 = "c710b0a3155807d1867a455394f86fe51e67ae55"
-libc = "glibc"
-os = "linux"
-
-    [[Ccluster.download]]
-    sha256 = "b7658e23c98fd1abc8e6638114a59b629e506c4b65ee757ef218efd9a7585cda"
-    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.7+0/Ccluster.v1.1.7.i686-linux-gnu.tar.gz"
-[[Ccluster]]
-arch = "i686"
-git-tree-sha1 = "8fb9372a966a0a064878a26c7ce2b403e0083cc6"
-libc = "musl"
-os = "linux"
-
-    [[Ccluster.download]]
-    sha256 = "d1521124b577fdaa3f7220cb62c349e254c02f02e711447bb70f6e47e6f397c1"
-    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.7+0/Ccluster.v1.1.7.i686-linux-musl.tar.gz"
-[[Ccluster]]
-arch = "i686"
-git-tree-sha1 = "aac59bdf737c9ffbe3ffc68a9391aa1aabb98b5e"
-os = "windows"
-
-    [[Ccluster.download]]
-    sha256 = "1e14c4131d7aa79d2defca24abd32fd09375e3dbe4c38af46adbe20a25339fb4"
-    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.7+0/Ccluster.v1.1.7.i686-w64-mingw32.tar.gz"
-[[Ccluster]]
-arch = "powerpc64le"
-git-tree-sha1 = "b42786d46ccf3916b3a8b14b27a0a576e6a054b5"
-libc = "glibc"
-os = "linux"
-
-    [[Ccluster.download]]
-    sha256 = "8092089adfc3f4ae7cc2d33dc7649728da11c7a55771a2220844ce11053cd802"
-    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.7+0/Ccluster.v1.1.7.powerpc64le-linux-gnu.tar.gz"
-[[Ccluster]]
-arch = "x86_64"
-git-tree-sha1 = "94b78ffa796b320b49348dbfa67f64f1e847d938"
+git-tree-sha1 = "28c73fd0b1fe65ef70da2a688a30725c9e97a55e"
 os = "macos"
 
     [[Ccluster.download]]
-    sha256 = "6c04557e7632d9b59c8a4e9c05a0f6a74f54a3ac5e1a258cfed9c7dde20273f4"
-    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.7+0/Ccluster.v1.1.7.x86_64-apple-darwin.tar.gz"
+    sha256 = "17bd530e3dd8e4bdf9ff5084f081114c6ccf6ea60bdb3a5736f6cbeabf922f77"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.aarch64-apple-darwin.tar.gz"
 [[Ccluster]]
-arch = "x86_64"
-git-tree-sha1 = "d33b2de712468fdc203aeda80405f2f6e7bbf617"
+arch = "aarch64"
+git-tree-sha1 = "d07dffb46042cc3172befd22f6cbf1793c1cde70"
 libc = "glibc"
 os = "linux"
 
     [[Ccluster.download]]
-    sha256 = "a96b1d2ec95514f3a49193a2b7c65c20e519201f3dde048105959f4c0154e449"
-    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.7+0/Ccluster.v1.1.7.x86_64-linux-gnu.tar.gz"
+    sha256 = "614aad209f34a400f8f96e704404ccb8b61bc77d34922bd7b16941a3e032bbc6"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.aarch64-linux-gnu.tar.gz"
 [[Ccluster]]
-arch = "x86_64"
-git-tree-sha1 = "47dfafd30507025b3aa8c45dde13cf1db6ed283f"
+arch = "aarch64"
+git-tree-sha1 = "32628170c28f70c3ff38a3bea7b954465a0eb787"
 libc = "musl"
 os = "linux"
 
     [[Ccluster.download]]
-    sha256 = "d772afbf092033d605986525c13e2409004e9e94ea6bef6e1571a1d631962af3"
-    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.7+0/Ccluster.v1.1.7.x86_64-linux-musl.tar.gz"
+    sha256 = "d0a0838b4aa50065c692df83c7b8702c98446adfd91bcd6b36c20a0587c7aade"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.aarch64-linux-musl.tar.gz"
 [[Ccluster]]
-arch = "x86_64"
-git-tree-sha1 = "fda3d27e9d0d05387df9b9f3a46624e1d7c2b5fa"
-os = "freebsd"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e3816f7d54af3ea62b4a1de0aef7be44ab4a9c1c"
+libc = "glibc"
+os = "linux"
 
     [[Ccluster.download]]
-    sha256 = "ed84e87581622814ae82906f9b456586de6088cb455c893a57232983ae869306"
-    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.7+0/Ccluster.v1.1.7.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "009cb7a0e3273d0721820ebe8a6af8f62cd16dc3458545121b3fe570a1545294"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.armv6l-linux-gnueabihf.tar.gz"
 [[Ccluster]]
-arch = "x86_64"
-git-tree-sha1 = "82a52cc133a7be4acc4943c03404235e486b4ae3"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "26cd22e6780516bc3be05d7f251677083c957554"
+libc = "musl"
+os = "linux"
+
+    [[Ccluster.download]]
+    sha256 = "4c8beacbe8e76363ef38532e1f0c2a79324f1e6734e76dfc79b7efe581d008ac"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.armv6l-linux-musleabihf.tar.gz"
+[[Ccluster]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d9b8d3c1e9a17b68426bd3437b1a5ffc8d9939b6"
+libc = "glibc"
+os = "linux"
+
+    [[Ccluster.download]]
+    sha256 = "79382a14148088441fefdf302358fd12ff9d47061f4f60511753f783740e5811"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.armv7l-linux-gnueabihf.tar.gz"
+[[Ccluster]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ab041c9edb2f24f4cfc1448e3686134a5dd3c2ce"
+libc = "musl"
+os = "linux"
+
+    [[Ccluster.download]]
+    sha256 = "6afb6be323afc5b12ae598a0c7debe977818d2e79c343d67691c2ef0755df201"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.armv7l-linux-musleabihf.tar.gz"
+[[Ccluster]]
+arch = "i686"
+git-tree-sha1 = "21d8e1b36fc355b934bf88ff9b1537ecb6c17255"
+libc = "glibc"
+os = "linux"
+
+    [[Ccluster.download]]
+    sha256 = "a426d5e531124b3951791ba41266409ea7ac89cf22fac28aba718855667fc3cb"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.i686-linux-gnu.tar.gz"
+[[Ccluster]]
+arch = "i686"
+git-tree-sha1 = "36fde5a3f091532a99b028dd6af38160406b1b86"
+libc = "musl"
+os = "linux"
+
+    [[Ccluster.download]]
+    sha256 = "647c5537c9160ba569b5f4345dcb748409d3d65cc81e8487cb54884751048cae"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.i686-linux-musl.tar.gz"
+[[Ccluster]]
+arch = "i686"
+git-tree-sha1 = "61d91ed253be86c3420ca54eeb4a96b08d805262"
 os = "windows"
 
     [[Ccluster.download]]
-    sha256 = "e0c6411202d0251c8b67376e5e3ee7fee7fddb7b3bbd9518e07714fce6328dc4"
-    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.7+0/Ccluster.v1.1.7.x86_64-w64-mingw32.tar.gz"
+    sha256 = "a30cb985462ee5a989dba6f25e05bd73b6b90c2570369ff349c0b649d0ab2d13"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.i686-w64-mingw32.tar.gz"
+[[Ccluster]]
+arch = "powerpc64le"
+git-tree-sha1 = "f267fbd9fdb8697170f5774b8f5ff72c6d07509a"
+libc = "glibc"
+os = "linux"
+
+    [[Ccluster.download]]
+    sha256 = "34aac5dc9b25b0838e50a9cf206cb2c66dc4d7d677201681d9bbca07b14eed42"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.powerpc64le-linux-gnu.tar.gz"
+[[Ccluster]]
+arch = "x86_64"
+git-tree-sha1 = "0c990246d9e25e6a847706d1919ac7bcb85578ec"
+os = "macos"
+
+    [[Ccluster.download]]
+    sha256 = "8fa42ed9555d4fbf90a354fc9e7e0706fc7ef8f4c3371067c31e38b0af6b6c86"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.x86_64-apple-darwin.tar.gz"
+[[Ccluster]]
+arch = "x86_64"
+git-tree-sha1 = "cd38aa2123c188be02d0d4053c74ee4b72edb347"
+libc = "glibc"
+os = "linux"
+
+    [[Ccluster.download]]
+    sha256 = "3afabbcdd7ca08cb961b3f8ceaaea4b4f68b69b8abeabf986ca7665e3082e646"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.x86_64-linux-gnu.tar.gz"
+[[Ccluster]]
+arch = "x86_64"
+git-tree-sha1 = "562769e0bf82a48a08ed5dc0c1eb244faaba3b24"
+libc = "musl"
+os = "linux"
+
+    [[Ccluster.download]]
+    sha256 = "a5baceeb6b1520aab663033ea1603e2883fec4ca5adf5f5f84a5cd3944f071d1"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.x86_64-linux-musl.tar.gz"
+[[Ccluster]]
+arch = "x86_64"
+git-tree-sha1 = "f281719f5ae50abe83eec5a97a697830bc839690"
+os = "freebsd"
+
+    [[Ccluster.download]]
+    sha256 = "65bd01bb37658636f94005196687714c3fea2b95df66b491bcad5357a5ba20cb"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.x86_64-unknown-freebsd.tar.gz"
+[[Ccluster]]
+arch = "x86_64"
+git-tree-sha1 = "0e1d588081eeb8c40160fdf7f1dc68ee294103d0"
+os = "windows"
+
+    [[Ccluster.download]]
+    sha256 = "0b9983f234ee3a4bd86cf6c1337db4f10c54eb45410904b2d6c835ad18686688"
+    url = "https://github.com/JuliaBinaryWrappers/Ccluster_jll.jl/releases/download/Ccluster-v1.1.8+0/Ccluster.v1.1.8.x86_64-w64-mingw32.tar.gz"
